@@ -1,0 +1,150 @@
+Fecha y hora: 24-11-2023 01:43:55
+Jugador 1: Papel
+Jugador 2: Piedra
+Resultado: Jugador 1 gana
+------------------------------
+Fecha y hora: 24-11-2023 01:53:49
+Jugador 1: Piedra
+Jugador 2: Papel
+Resultado: Jugador 2 gana
+------------------------------
+Fecha y hora: 24-11-2023 01:53:57
+Jugador 1: Papel
+Jugador 2: Papel
+Resultado: Empate
+------------------------------
+Fecha y hora: 24-11-2023 01:54:00
+Jugador 1: Papel
+Jugador 2: Papel
+Resultado: Empate
+------------------------------
+Fecha y hora: 24-11-2023 01:54:02
+Jugador 1: Papel
+Jugador 2: Papel
+Resultado: Empate
+------------------------------
+Fecha y hora: 24-11-2023 01:54:04
+Jugador 1: Tijera
+Jugador 2: Piedra
+Resultado: Jugador 2 gana
+------------------------------
+Fecha y hora: 24-11-2023 01:54:11
+Jugador 1: Papel
+Jugador 2: Piedra
+Resultado: Jugador 1 gana
+------------------------------
+Fecha y hora: 24-11-2023 01:55:06
+Jugador 1: Piedra
+Jugador 2: Tijera
+Resultado: Jugador 1 gana
+------------------------------
+Fecha y hora: 24-11-2023 12:30:23
+Jugador 1: Piedra
+Jugador 2: Papel
+Resultado: Jugador 2 gana
+------------------------------
+Fecha y hora: 24-11-2023 12:32:19
+Jugador 1: Tijera
+Jugador 2: Papel
+Resultado: Jugador 1 gana
+------------------------------
+Fecha y hora: 24-11-2023 12:32:44
+Jugador 1: Papel
+Jugador 2: Papel
+Resultado: Empate
+------------------------------
+Fecha y hora: 24-11-2023 12:32:51
+Jugador 1: Papel
+Jugador 2: Piedra
+Resultado: Jugador 1 gana
+------------------------------
+Fecha y hora: 24-11-2023 12:32:54
+Jugador 1: Piedra
+Jugador 2: Tijera
+Resultado: Jugador 1 gana
+------------------------------
+Fecha y hora: 24-11-2023 12:32:56
+Jugador 1: Piedra
+Jugador 2: Tijera
+Resultado: Jugador 1 gana
+------------------------------
+Fecha y hora: 24-11-2023 12:32:58
+Jugador 1: Tijera
+Jugador 2: Papel
+Resultado: Jugador 1 gana
+------------------------------
+Fecha y hora: 24-11-2023 12:33:00
+Jugador 1: Tijera
+Jugador 2: Tijera
+Resultado: Empate
+------------------------------
+Fecha y hora: 24-11-2023 12:33:01
+Jugador 1: Piedra
+Jugador 2: Tijera
+Resultado: Jugador 1 gana
+------------------------------
+Fecha y hora: 24-11-2023 12:33:02
+Jugador 1: Piedra
+Jugador 2: Tijera
+Resultado: Jugador 1 gana
+------------------------------
+Fecha y hora: 24-11-2023 12:33:02
+Jugador 1: Papel
+Jugador 2: Piedra
+Resultado: Jugador 1 gana
+------------------------------
+Fecha y hora: 24-11-2023 12:33:04
+Jugador 1: Piedra
+Jugador 2: Piedra
+Resultado: Empate
+------------------------------
+Fecha y hora: 24-11-2023 12:33:05
+Jugador 1: Tijera
+Jugador 2: Tijera
+Resultado: Empate
+------------------------------
+Fecha y hora: 24-11-2023 12:33:07
+Jugador 1: Papel
+Jugador 2: Piedra
+Resultado: Jugador 1 gana
+------------------------------
+Fecha y hora: 24-11-2023 12:33:08
+Jugador 1: Tijera
+Jugador 2: Tijera
+Resultado: Empate
+------------------------------
+Fecha y hora: 24-11-2023 12:33:09
+Jugador 1: Piedra
+Jugador 2: Piedra
+Resultado: Empate
+------------------------------
+Fecha y hora: 24-11-2023 12:33:10
+Jugador 1: Piedra
+Jugador 2: Piedra
+Resultado: Empate
+------------------------------
+Fecha y hora: 24-11-2023 12:33:10
+Jugador 1: Tijera
+Jugador 2: Tijera
+Resultado: Empate
+------------------------------
+Fecha y hora: 24-11-2023 12:33:11
+Jugador 1: Piedra
+Jugador 2: Piedra
+Resultado: Empate
+------------------------------
+Fecha y hora: 24-11-2023 12:33:12
+Jugador 1: Tijera
+Jugador 2: Piedra
+Resultado: Jugador 2 gana
+------------------------------
+Fecha y hora: 24-11-2023 12:33:21
+Jugador 1: Papel
+Jugador 2: Piedra
+Resultado: Jugador 1 gana
+------------------------------
+Fecha y hora: 24-11-2023 12:33:50
+Jugador 1: Piedra
+Jugador 2: Papel
+Resultado: Jugador 2 gana
+------------------------------
